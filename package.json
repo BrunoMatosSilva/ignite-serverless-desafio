@@ -31,7 +31,7 @@
     "webpack": "^5.20.2",
     "webpack-node-externals": "^2.5.2"
   },
-  "author": "Henrique Cabral",
+  "author": "Bruno Matos",
   "license": "MIT",
   "dependencies": {
     "aws-sdk": "^2.907.0",
